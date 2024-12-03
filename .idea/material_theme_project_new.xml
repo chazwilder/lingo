@@ -10,7 +10,7 @@
     </option>
     <option name="titleBarState">
       <MTProjectTitleBarConfigState>
-        <option name="overrideColor" value="false" />
+        <option name="customTitle" value="{project} - {file}" />
       </MTProjectTitleBarConfigState>
     </option>
   </component>
